@@ -87,6 +87,18 @@ The dashboard uses a linked fraud dataset with the following core tables:
 - **customers_cleaned**  
   Stores customer segmentation and regional attributes such as customer segment, customer type, risk rating, and region.
 
+  ## SQL Logic Included
+
+The `sql/` folder contains supporting query logic used to structure and validate the fraud analytics views behind the dashboard, including:
+
+- data quality and link checks
+- core fraud KPI logic
+- fraud trend analysis
+- rule performance analysis
+- workload and investigator analysis
+
+This helps show the analytical backbone behind the Power BI reporting layer.
+
 ## Dashboard Pages
 
 ### 1. Executive Overview

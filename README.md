@@ -9,7 +9,7 @@ I built a multi-page Power BI dashboard using a relational fraud dataset coverin
 ```markdown
 ## Project Structure
 
-```text
+```
 bank-fraud-monitoring-rule-performance-lab/
 ├── README.md
 ├── dashboard/

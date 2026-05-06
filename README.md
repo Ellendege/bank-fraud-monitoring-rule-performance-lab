@@ -17,7 +17,7 @@ bank-fraud-monitoring-rule-performance-lab/
 ├── docs/
 ├── images/
 └── sql/
-```text
+```
 
 ## Business Problem
 Banks and digital financial institutions face growing fraud pressure across multiple channels, while fraud operations teams are often overloaded with alerts and case reviews.

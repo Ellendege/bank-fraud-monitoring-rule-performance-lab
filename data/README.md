@@ -6,11 +6,11 @@ This folder is for the project’s sample fraud data assets and related notes.
 The dataset was designed to simulate a realistic fraud analytics environment for a bank or digital financial institution.
 
 ## Core Tables
-- `transactions_cleaned`
-- `alerts_cleaned`
-- `rules_cleaned`
-- `cases_cleaned`
-- `customers_cleaned`
+- transactions_cleaned
+- alerts_cleaned
+- rules_cleaned
+- cases_cleaned
+- customers_cleaned
 
 ## Data Design Goal
 The data structure was created to support analysis across:

@@ -55,6 +55,20 @@ The project was built to demonstrate:
 - Dashboard storytelling for management
 - Decision-support thinking in a fraud environment
 
+  ## Key Insights
+
+Using the sample fraud dataset, the dashboard surfaced several practical fraud analytics insights:
+
+- A total of **8 cases** were reviewed, of which **5 were confirmed fraud** and **3 were false positives**.
+- The dashboard showed **Ksh471,000** in confirmed fraud loss, **Ksh60,000** in recovery, and **Ksh411,000** in net loss.
+- **Agent Banking** appeared as the highest-loss channel in the Executive Overview.
+- At the customer segment level, **Retail** generated the most reviewed case volume, while the **Agent** segment carried the highest confirmed fraud loss.
+- On the rule-performance page, **High Value Night Transfer** and **Agent Float Abuse Pattern** showed strong fraud conversion, while other rules showed high false positive behavior.
+- On the operations page, the **Digital Fraud Queue** carried the highest alert burden.
+- Investigator workload was relatively concentrated around **INV001** and **INV002**, who handled the highest case and confirmed fraud volumes.
+
+These insights show how fraud analytics can support not only fraud detection, but also control review, rule tuning, workload management, and management prioritization.
+
 ## Dataset Structure
 The dashboard uses a linked fraud dataset with the following core tables:
 

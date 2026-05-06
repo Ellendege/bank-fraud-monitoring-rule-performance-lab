@@ -110,6 +110,23 @@ Key content:
 - Confirmed Fraud Loss by Region
 - Segment Summary Table
 
+  ## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](images/ExecutiveOverview.png)
+
+### Fraud Trends
+![Fraud Trends](images/FraudTrends.png)
+
+### Rule Performance
+![Rule Performance](images/RulePerformance.png)
+
+### Workload and Operations
+![Workload and Operations](images/operations.png)
+
+### Customer / Segment Risk View
+![Customer / Segment Risk View](images/customersgment.png)
+
 ## Key Measures Built
 Some of the core measures used in the dashboard include:
 - Total Cases Reviewed

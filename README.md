@@ -37,6 +37,24 @@ The project was built to demonstrate:
 - Relationship-based reporting across linked fraud tables
 - Decision-support thinking in a fraud environment
 
+  ## Tools Used
+
+- **Power BI** – dashboard design, DAX measures, visuals, and reporting
+- **SQL** – KPI logic, rule performance analysis, trend analysis, and workload reporting
+- **Excel / CSV** – data preparation and validation
+- **Fraud analytics thinking** – KPI design, control-performance analysis, and executive reporting structure
+
+## Skills Demonstrated
+
+- Fraud KPI / KRI design
+- Rule performance analysis
+- False positive and alert-noise analysis
+- Fraud trend monitoring
+- Operational workload reporting
+- Relationship-based Power BI reporting
+- Dashboard storytelling for management
+- Decision-support thinking in a fraud environment
+
 ## Dataset Structure
 The dashboard uses a linked fraud dataset with the following core tables:
 

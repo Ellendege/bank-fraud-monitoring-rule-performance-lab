@@ -5,6 +5,13 @@ This project simulates how a bank fraud analytics team could use data to monitor
 
 I built a multi-page Power BI dashboard using a relational fraud dataset covering transactions, alerts, rules, cases, and customers. The goal was to show that fraud analytics is not only about detecting suspicious activity, but about turning fraud data into decision support for leadership, operations, and control improvement.
 
+## Key Project Files
+
+- [Project Handoff Summary](docs/project_handoff_summary.md)
+- [Dashboard Plan](docs/dashboard_plan.md)
+- [Dataset Dictionary](docs/dataset_dictionary.md)
+- [Power BI Measures List](docs/powerbi_measures_list.md)
+  
 ## Business Problem
 Banks and digital financial institutions face growing fraud pressure across multiple channels, while fraud operations teams are often overloaded with alerts and case reviews.
 
